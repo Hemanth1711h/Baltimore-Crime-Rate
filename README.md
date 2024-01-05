@@ -28,7 +28,7 @@ Offline
 
 Procedure 
 
-1.	Datasets
+1. Datasets
 
 Part 1 Crime Data
 This dataset represents the location and characteristics of major Part 1 crime against persons such as homicide, shooting, robbery, aggravated assault etc. within the City of Baltimore.
