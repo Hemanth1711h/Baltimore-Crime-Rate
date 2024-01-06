@@ -19,7 +19,7 @@ Online
 
 Offline
 
- Python Software 
+*** Python Software 
 
  Anaconda Navigator 
 
